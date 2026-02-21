@@ -42,10 +42,10 @@ Built interactive Power BI dashboards to improve access to institutional data an
 
 ## Technical Skills
 
-**Programming:** Python, SQL, R
-**Data Analysis:** EDA, Regression, Classification, Feature Engineering, Hypothesis Testing
-**Visualization:** Power BI, Tableau, Excel, KPI Dashboards
-**Tools:** MySQL, Git, Pandas, NumPy, Scikit-Learn
+* **Programming:** Python, SQL, R
+* **Data Analysis:** EDA, Regression, Classification, Feature Engineering, Hypothesis Testing
+* **Visualization:** Power BI, Tableau, Excel, KPI Dashboards
+* **Tools:** MySQL, Git, Pandas, NumPy, Scikit-Learn
 
 ---
 
